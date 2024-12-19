@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Data Science, Machine Learnin
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Pursuing B.tech in Data Science from Lovely Professional University.
+- 🎓 **Education:** Pursuing M.tech in Artificial Intelligence from IIT Patna.
 
 ## 🧠 Skills & Interests
 
